@@ -1,0 +1,16 @@
+C:\Users\alext\Desktop\proiecte c#\invat\invat\obj\Debug\invat.csproj.AssemblyReference.cache
+C:\Users\alext\Desktop\proiecte c#\invat\invat\obj\Debug\invat.csproj.SuggestedBindingRedirects.cache
+C:\Users\alext\Desktop\proiecte c#\invat\invat\obj\Debug\invat.csproj.CoreCompileInputs.cache
+C:\Users\alext\Desktop\proiecte c#\invat\invat\bin\Debug\invat.exe.config
+C:\Users\alext\Desktop\proiecte c#\invat\invat\bin\Debug\invat.exe
+C:\Users\alext\Desktop\proiecte c#\invat\invat\bin\Debug\invat.pdb
+C:\Users\alext\Desktop\proiecte c#\invat\invat\obj\Debug\invat.exe
+C:\Users\alext\Desktop\proiecte c#\invat\invat\obj\Debug\invat.pdb
+C:\Users\alext\Desktop\proiecte c#\proiectobiecte\invat\bin\Debug\invat.exe.config
+C:\Users\alext\Desktop\proiecte c#\proiectobiecte\invat\bin\Debug\invat.exe
+C:\Users\alext\Desktop\proiecte c#\proiectobiecte\invat\bin\Debug\invat.pdb
+C:\Users\alext\Desktop\proiecte c#\proiectobiecte\invat\obj\Debug\invat.csproj.AssemblyReference.cache
+C:\Users\alext\Desktop\proiecte c#\proiectobiecte\invat\obj\Debug\invat.csproj.SuggestedBindingRedirects.cache
+C:\Users\alext\Desktop\proiecte c#\proiectobiecte\invat\obj\Debug\invat.csproj.CoreCompileInputs.cache
+C:\Users\alext\Desktop\proiecte c#\proiectobiecte\invat\obj\Debug\invat.exe
+C:\Users\alext\Desktop\proiecte c#\proiectobiecte\invat\obj\Debug\invat.pdb
