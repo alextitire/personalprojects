@@ -1,0 +1,24 @@
+C:\Users\alext\Desktop\proiecte c#\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\alext\Desktop\proiecte c#\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\alext\Desktop\proiecte c#\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\alext\Desktop\proiecte c#\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\alext\Desktop\proiecte c#\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\alext\Desktop\proiecte c#\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\alext\Desktop\proiecte c#\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\alext\Desktop\proiecte c#\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
+C:\Users\alext\Desktop\proiecte c#\proiect banca\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\alext\Desktop\proiecte c#\proiect banca\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\alext\Desktop\proiecte c#\proiect banca\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\alext\Desktop\proiecte c#\proiect banca\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\alext\Desktop\proiecte c#\proiect banca\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\alext\Desktop\proiecte c#\proiect banca\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\alext\Desktop\proiecte c#\proiect banca\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\alext\Desktop\proiecte c#\proiect banca\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
+C:\Users\alext\Desktop\proiecte c#\c#bank\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\alext\Desktop\proiecte c#\c#bank\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\alext\Desktop\proiecte c#\c#bank\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\alext\Desktop\proiecte c#\c#bank\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\alext\Desktop\proiecte c#\c#bank\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\alext\Desktop\proiecte c#\c#bank\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\alext\Desktop\proiecte c#\c#bank\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\alext\Desktop\proiecte c#\c#bank\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
